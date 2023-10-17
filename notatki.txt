@@ -1,0 +1,20 @@
+TematTablicze statyczne
+
+W przypadki i-- dajemy zawsze int
+
+def: pętli for
+for(start,warunek stopu, operator inkrementacji/decrementacji){
+// kod wykonujący się tyle razy dopóki nie osiągnięto war.stop
+}
+operator increment: to taki który przyjmuje postać:
+zmienne++; zwiększ wartość o 1 po każdym przejściu pętli
+"zmienna = zmienna + 1," to samo co "zmienna++;" to samo co
+"zmienna += 1;"
+
+operator dekrementacji:
+zmienna--;
+zmienna = zmienna - 1;
+amienna -= 1;
+
+
+zmienna++; ++zmienna;
